@@ -41,7 +41,7 @@
 | [Producer–Consumer Simulation](https://github.com/Menan-Mohamed/Producer_Consumer) | Email server simulation | `Java` `React` `Spring Boot` |
 | [Signal Flow Graph](https://github.com/Ziad-Sallam/Signal-Flow-Graph) | Interactive signal flow graph analyser | `Java` `React` `Spring Boot` |
 | [Web Paint](https://github.com/Ziad-Sallam/webBasedPaint) | Browser-based drawing application | `Java` `React` `Spring Boot` |
-| [Dots and Boxes](https://github.com/Armaritto/Dots-and-Boxes-Quiz-Edition) | Dots and Boxes with trivia questions | `C` |
+| [Dots and Boxes](https://github.com/Ziad-Sallam/Dots-and-Box) | Dots and Boxes with trivia questions | `C` |
 
 ---
 
